@@ -42,9 +42,16 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dxryan01&show_icons=true&theme=tokyonight&hide_border=true)
+## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dxryan01&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dxryan01&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Dxryan01&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxryan01&layout=compact&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dxryan01&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ## Platforms
 
