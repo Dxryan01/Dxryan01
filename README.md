@@ -44,8 +44,8 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dxryan01&show_icons=true&theme=tokyonight&hide_border=true" alt="Dxryan01 GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dxryan01&theme=tokyonight&hide_border=true" alt="Dxryan01 GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dxryan01&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Dxryan01&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ## Platforms
@@ -55,12 +55,12 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
   <a href="https://tryhackme.com/p/Dxryan" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=22C55E" alt="TryHackMe" />
   </a>
-  <br>
+  <br><br>
   <!-- OverTheWire -->
   <a href="https://overthewire.org/" target="_blank">
     <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="OverTheWire" />
   </a>
-  <br>
+  <br><br>
   <!-- CyLab Academy -->
   <a href="https://cylab.org" target="_blank">
     <img src="https://img.shields.io/badge/CyLab_Academy-0A192F?style=for-the-badge&logo=shield&logoColor=00E5FF" alt="CyLab Academy" />
