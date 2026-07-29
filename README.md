@@ -17,22 +17,22 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 ## Tech Stack
 
 ### Programming Languages
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=py,c" alt="My Tech Stack | Programming Languages" />
 </a>
  
  ### Web Development
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Tech Stack | Web Dev" />
 </a>
 
 ### Databases
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="My Tech Stack | Databases" />
 </a>
 
 ### Scripting / Shell 
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" alt="My Tech Stack | Scripting/Shell" />
 </a>
 
