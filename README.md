@@ -1,4 +1,4 @@
-# Hi, I'm Doryan 👋
+# Hi, I'm Doryan 
 
 ```
 ┌──(dxryan㉿kali)-[~]
