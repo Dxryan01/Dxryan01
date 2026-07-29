@@ -14,13 +14,12 @@
 
 Cybersecurity student building a solid foundation in Linux administration, networking, and scripting, with offensive security and CTF competitions as the practical thread tying it all together.
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,html,css,js,mysql,postgres,bash,linux,windows&perline=5" alt="My Tech Stack" />
-  </a>
-</p>
+</a>
+
 
 ## Stats
 
