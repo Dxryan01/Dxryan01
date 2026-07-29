@@ -17,29 +17,24 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 ## Tech Stack
 
 ### Programming Languages
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a> <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-</p>
+
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" /></a>&#160;<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" /></a>
 
 ### Web Development
-<p align="left">
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a> <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a> <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-</p>
+
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" /></a>&#160;<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" /></a>&#160;<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /></a>
 
 ### Databases
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-</p>
+
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /></a>&#160;<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /></a>
 
 ### Scripting / Shell
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-</p>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" /></a>
 
 ### Operating Systems
-<p align="left">
-  <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a> <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
-</p>
+
+<a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /></a>&#160;<a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="48" height="48" /></a>
 
 ## Stats
 
