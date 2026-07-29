@@ -35,6 +35,7 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=bash" alt="My Tech Stack | Scripting/Shell" />
 </a>
+
 ### Operating Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,windows" alt="My Tech Stack | OS" />
