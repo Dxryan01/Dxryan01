@@ -17,12 +17,9 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 ## Tech Stack
 
 ### Programming Languages
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" />
-</a>
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" />
-</a>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a> <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+</p>
 
 
 ### Web Development
