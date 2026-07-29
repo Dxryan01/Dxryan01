@@ -21,26 +21,25 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a> <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 </p>
 
-
 ### Web Development
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Tech Stack | Web Dev" />
-</a>
+<p align="left">
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a> <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a> <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+</p>
 
 ### Databases
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="My Tech Stack | Databases" />
-</a>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+</p>
 
 ### Scripting / Shell
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash" alt="My Tech Stack | Scripting/Shell" />
-</a>
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+</p>
 
 ### Operating Systems
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows" alt="My Tech Stack | Operating Systems" />
-</a>
+<p align="left">
+  <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a> <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
+</p>
 
 ## Stats
 
