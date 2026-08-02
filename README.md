@@ -66,12 +66,49 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
   </a>
 </p>
 
-## Stats
+<!-- Section Stats -->
+<h2 align="center">Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dxryan01&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Dxryan01&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<div align="center">
+  <!-- Carte d'activité GitHub (Stats) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dxryan01&show_icons=true&theme=dark&hide_border=false" alt="Dxryan's GitHub Stats" />
+  </a>
+  <!-- Carte Streak (Série de contributions) -->
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dxryan01&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Carte des Langages les plus utilisés -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxryan01&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
+<hr />
+<br />
+
+<!-- Section Platforms (Centrée en bas) -->
+<h2 align="center">Platforms</h2>
+
+<div align="center">
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Cylab_Academy-000000?style=for-the-badge&logo=academic&logoColor=white" alt="Cylab Academy" />
+  </a>
+  &nbsp;
+  <a href="https://overthewire.org" target="_blank">
+    <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="OverTheWire" />
+  </a>
+</div>
 
 ## Platforms
 
