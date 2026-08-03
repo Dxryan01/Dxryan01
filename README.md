@@ -14,7 +14,7 @@ Building practical cybersecurity skills, one project at a time.
 
 ---
 
-<h2 align="center">
+<h2 align="left">
 About Me
 </h2>
 
@@ -151,7 +151,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 </a>
 </p>
 
-<sub>VS Code • Git • GitHub • VirtualBox</sub>
+<sub>VS Code • Git • GitHub</sub>
 
 </td>
 
