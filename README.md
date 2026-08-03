@@ -175,12 +175,12 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 ---
 
 <!-- ========================================= -->
-<!-- Stats -->
+<!-- GitHub Activity -->
 <!-- ========================================= -->
 
-## 📊 GitHub Activity
+## GitHub Activity
 
-<p align="center">
+<p align="left">
   A quick overview of my GitHub activity and contribution streak.
 </p>
 
@@ -194,7 +194,9 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
       alt="GitHub Stats"
     />
   </a>
+</p>
 
+<p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
       width="49%"
