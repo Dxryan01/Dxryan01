@@ -234,6 +234,8 @@ Continuously improving my skills through hands-on labs, challenges and CTF platf
 
 </p>
 
+---
+
 <!-- ========================================= -->
 <!-- Projects -->
 <!-- ========================================= -->
@@ -262,7 +264,7 @@ Complete walkthroughs of the **Bandit** wargame with clear explanations, Linux c
 
 <br>
 
-<a href="https://github.com/Dxryan01/overthewire-writeups">
+<a href="[https://github.com/Dxryan01/overthewire-writeups](https://github.com/Dxryan01/overthewire-writeups/tree/main/bandit)">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
