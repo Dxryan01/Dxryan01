@@ -2,13 +2,13 @@
 <!-- HERO -->
 <!-- ========================================= -->
 
-<h1 align="center">Hi, I'm Doryan</h1>
+<h1 align="left">Hi, I'm Doryan</h1>
 
-<h3 align="center">
+<h3 align="left">
 Cybersecurity Student from Benin 
 </h3>
 
-<p align="center">
+<p align="left">
 Building practical cybersecurity skills, one project at a time.
 </p>
 
