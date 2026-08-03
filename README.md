@@ -30,98 +30,130 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 <!-- Tech Stats -->
 <!-- ========================================= -->
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="33%">
 
-### 💻 Programming Languages
+<td align="center" width="50%" valign="top">
 
+### Programming Languages
+
+<p align="center">
 <a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=py" width="50" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=py" width="60" alt="Python"/>
 </a>
-
+&nbsp;
 <a href="https://en.cppreference.com/w/c" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" width="50" alt="C"/>
+<img src="https://skillicons.dev/icons?i=c" width="60" alt="C"/>
 </a>
+</p>
+
+<sub>Python • C</sub>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%" valign="top">
 
-### 🌐 Web Development
+### Web Development
 
-<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/>
+<p align="center">
+<a href="https://developer.mozilla.org/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML"/>
 </a>
-
-<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/>
+&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS"/>
 </a>
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/>
+&nbsp;
+<a href="https://developer.mozilla.org/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript"/>
 </a>
+</p>
+
+<sub>HTML • CSS • JavaScript</sub>
 
 </td>
 
-<td align="center" width="33%">
-
-### 🗄 Databases
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
-</a>
-
-</td>
 </tr>
 
 <tr>
-<td align="center">
 
-### 🐧 Operating Systems
+<td align="center" valign="top">
 
-<a href="https://www.kernel.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/>
+### Databases
+
+<p align="center">
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL"/>
 </a>
-
-<a href="https://www.microsoft.com/windows" target="_blank">
-<img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows"/>
+&nbsp;
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" width="60" alt="PostgreSQL"/>
 </a>
+</p>
+
+<sub>MySQL • PostgreSQL</sub>
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
-### ⚡ Scripting / Shell
+### Operating Systems
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://skillicons.dev/icons?i=bash" width="50" alt="Bash"/>
+<p align="center">
+<a href="https://www.kernel.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux"/>
 </a>
+&nbsp;
+<a href="https://www.microsoft.com/windows">
+<img src="https://skillicons.dev/icons?i=windows" width="60" alt="Windows"/>
+</a>
+</p>
+
+<sub>Linux • Windows</sub>
 
 </td>
 
-<td align="center">
+</tr>
 
-### 🛠 Tools
+<tr>
 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
+<td align="center" valign="top">
+
+### Scripting / Shell
+
+<p align="center">
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://skillicons.dev/icons?i=bash" width="60" alt="Bash"/>
 </a>
+</p>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-</a>
+<sub>Bash</sub>
 
 </td>
+
+<td align="center" valign="top">
+
+### Tools
+
+<p align="center">
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code"/>
+</a>
+&nbsp;
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
+</a>
+&nbsp;
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
+</a>
+</p>
+
+<sub>VS Code • Git • GitHub • VirtualBox</sub>
+
+</td>
+
 </tr>
 </table>
