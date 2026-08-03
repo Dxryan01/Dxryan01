@@ -176,28 +176,38 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 <!-- Stats -->
 <!-- ========================================= -->
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-A quick overview of my GitHub activity and contributions.
+  A quick overview of my GitHub activity and contribution streak.
 </p>
 
 <br>
 
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      width="49%"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dxryan01&show_icons=true&hide_border=false&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_color=30363d"
+      alt="GitHub Stats"
+    />
+  </a>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Dxryan01&show_icons=true&hide_border=false&bg_color=00000000&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950"
-width="95%">
-
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      width="49%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Dxryan01&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Dxryan01&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e"
-width="95%">
-
+  <img
+    width="98%"
+    src="https://raw.githubusercontent.com/Dxryan01/Dxryan01/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
 </p>
