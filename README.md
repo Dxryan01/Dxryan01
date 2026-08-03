@@ -70,33 +70,42 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 <h2 align="center">Stats</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- Carte Stats Activité -->
-      <td valign="top" width="50%">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Dxryan01&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false" alt="Dxryan's GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <!-- Carte Streak / Séries -->
-      <td valign="top" width="50%">
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dxryan01&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <!-- Carte Top Langages (sur toute la largeur en bas) -->
-      <td colspan="2" align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxryan01&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" width="80%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dxryan01&show_icons=true&theme=dark&hide_border=false" alt="Dxryan's GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dxryan01&theme=dark" alt="GitHub Streak" width="49%" />
+  </a>
 </div>
 
 <br />
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dxryan01&layout=compact&theme=dark" alt="Top Languages" width="60%" />
+  </a>
+</div>
+
+<br />
+<hr />
+<br />
+
+<!-- Section Platforms (Centrée) -->
+<h2 align="center">Platforms</h2>
+
+<div align="center">
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Cylab_Academy-000000?style=for-the-badge&logo=academic&logoColor=white" alt="Cylab Academy" />
+  </a>
+  &nbsp;
+  <a href="https://overthewire.org" target="_blank">
+    <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="OverTheWire" />
+  </a>
+</div>
 
 <!-- Section Platforms (Centrée) -->
 <h2 align="center">Platforms</h2>
