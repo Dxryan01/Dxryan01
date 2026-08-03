@@ -207,36 +207,6 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 ---
 
 <!-- ========================================= -->
-<!-- Platforms -->
-<!-- ========================================= -->
-
-## Learning Platforms
-
-<p align="left">
-Continuously improving my skills through hands-on labs, challenges and CTF platforms.
-</p>
-
-<br>
-
-<p align="left">
-
-<a href="https://tryhackme.com/p/Dxryan01">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-</a>
-
-<a href="https://overthewire.org/wargames/">
-<img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="OverTheWire"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CyLab_Academy-0052CC?style=for-the-badge&logo=academia&logoColor=white" alt="CyLab Academy"/>
-</a>
-
-</p>
-
----
-
-<!-- ========================================= -->
 <!-- Projects -->
 <!-- ========================================= -->
 
@@ -291,3 +261,35 @@ A mentoring platform designed to connect mentors and students from IFRI through 
 </tr>
 
 </table>
+
+--- 
+
+<!-- ========================================= -->
+<!-- Platforms -->
+<!-- ========================================= -->
+
+## Learning Platforms
+
+<p align="left">
+Continuously improving my skills through hands-on labs, challenges and CTF platforms.
+</p>
+
+<br>
+
+<p align="left">
+
+<a href="https://tryhackme.com/p/Dxryan01">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+
+<a href="https://overthewire.org/wargames/">
+<img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="OverTheWire"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CyLab_Academy-0052CC?style=for-the-badge&logo=academia&logoColor=white" alt="CyLab Academy"/>
+</a>
+
+</p>
+
+---
