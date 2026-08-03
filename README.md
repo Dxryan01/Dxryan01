@@ -107,39 +107,4 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
   </a>
 </div>
 
-<!-- Section Platforms (Centrée) -->
-<h2 align="center">Platforms</h2>
 
-<div align="center">
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Cylab_Academy-000000?style=for-the-badge&logo=academic&logoColor=white" alt="Cylab Academy" />
-  </a>
-  &nbsp;
-  <a href="https://overthewire.org" target="_blank">
-    <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="OverTheWire" />
-  </a>
-</div>
-
-## Platforms
-
-<p align="left">
-  <!-- TryHackMe -->
-  <a href="https://tryhackme.com/p/Dxryan" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=22C55E" alt="TryHackMe" />
-  </a>
-  <br>
-  <!-- CyLab Academy -->
-  <a href="https://cylab.org" target="_blank">
-    <img src="https://img.shields.io/badge/CyLab_Academy-0A192F?style=for-the-badge&logo=shield&logoColor=00E5FF" alt="CyLab Academy" />
-  </a>
-  <br>
-  <!-- OverTheWire -->
-  <a href="https://overthewire.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="OverTheWire" />
-  </a>
-  <br>
-</p>
