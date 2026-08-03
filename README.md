@@ -71,10 +71,10 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dxryan01&show_icons=true&theme=dark&hide_border=false" alt="Dxryan's GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dxryan01&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="Dxryan's GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dxryan01&theme=dark" alt="GitHub Streak" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dxryan01&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e" alt="GitHub Streak" width="49%" />
   </a>
 </div>
 
