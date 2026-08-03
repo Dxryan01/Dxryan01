@@ -79,14 +79,6 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 </div>
 
 <br />
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dxryan01&layout=compact&theme=dark" alt="Top Languages" width="60%" />
-  </a>
-</div>
-
-<br />
 <hr />
 <br />
 
