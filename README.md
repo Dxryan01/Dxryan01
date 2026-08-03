@@ -14,7 +14,9 @@ Building practical cybersecurity skills, one project at a time.
 
 ---
 
-## About Me
+<p align="center">
+About Me
+</p>
 
 I'm a cybersecurity student at **IFRI (University of Abomey-Calavi)** with a strong interest in offensive security and Linux.
 
