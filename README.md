@@ -186,7 +186,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       width="49%"
@@ -196,7 +196,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
   </a>
 </p>
 
-<p>
+<p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
       width="49%"
