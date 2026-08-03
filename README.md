@@ -39,7 +39,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 <h3>Programming Languages</h3>
 
----
+<hr width="90%">
 
 <p align="center">
 <a href="https://www.python.org/" target="_blank">
@@ -59,7 +59,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 <h3>Web Development</h3>
 
----
+<hr width="90%">
 
 <p align="center">
 <a href="https://developer.mozilla.org/docs/Web/HTML">
@@ -83,7 +83,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 <h3>Databases</h3>
 
----
+<hr width="90%">
 
 <p align="center">
 <a href="https://www.mysql.com/">
@@ -107,7 +107,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 <h3>Operating Systems</h3>
 
----
+<hr width="90%">
 
 <p align="center">
 <a href="https://www.kernel.org/">
@@ -127,7 +127,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 <h3>Scripting / Shell</h3>
 
----
+<hr width="90%">
 
 <p align="center">
 <a href="https://www.gnu.org/software/bash/">
@@ -143,7 +143,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 <h3>Tools</h3>
 
----
+<hr width="90%">
 
 <p align="center">
 <a href="https://code.visualstudio.com/">
@@ -170,7 +170,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 </table>
 
-<p>&nbsp;</p>
+<br clear="both">
 
 ---
 
