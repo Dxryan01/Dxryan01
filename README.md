@@ -8,7 +8,7 @@
 Cybersecurity Student from Benin 
 </h3>
 
-<h4 align="left">
+<p>
 Building practical cybersecurity skills, one project at a time.
 </p>
 
