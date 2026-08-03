@@ -32,7 +32,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 ## Tech Stack
 
-<table align="center" width="100%">
+<table align="left" width="100%">
 <tr>
 
 <td align="center" width="50%" valign="top">
