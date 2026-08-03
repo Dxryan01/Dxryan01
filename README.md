@@ -233,3 +233,59 @@ Continuously improving my skills through hands-on labs, challenges and CTF platf
 </a>
 
 </p>
+
+<!-- ========================================= -->
+<!-- Projects -->
+<!-- ========================================= -->
+
+## Featured Projects
+
+<p align="left">
+A selection of projects that best reflect my learning journey and technical skills.
+</p>
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### OverTheWire Bandit Writeups
+
+Complete walkthroughs of the **Bandit** wargame with clear explanations, Linux commands and practical notes.
+
+**Tech Stack**
+
+`Linux` `Bash` `Markdown`
+
+<br>
+
+<a href="https://github.com/Dxryan01/overthewire-writeups/bandit">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### MentorLink
+
+A mentoring platform designed to connect mentors and students through intelligent matching.
+
+**Tech Stack**
+
+`Flask` `PostgreSQL` `HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/Dxryan01/MentorLink">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
