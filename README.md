@@ -22,7 +22,7 @@ I'm a cybersecurity student at **IFRI (University of Abomey-Calavi)** with a str
 
 I enjoy learning by building projects, solving CTF challenges, and documenting what I learn along the way.
 
-Currently, I'm strengthening my skills in Linux administration, networking, scripting and web security while building a solid portfolio on GitHub.
+Currently, I'm strengthening my skills in Linux administration, networking, scripting and web security.
 
 ---
 
