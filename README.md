@@ -75,10 +75,6 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" valign="top">
 
 ### Databases
