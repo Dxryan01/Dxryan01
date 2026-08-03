@@ -170,7 +170,7 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 
 </table>
 
-<br>
+<p>&nbsp;</p>
 
 ---
 
