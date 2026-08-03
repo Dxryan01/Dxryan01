@@ -262,7 +262,7 @@ Complete walkthroughs of the **Bandit** wargame with clear explanations, Linux c
 
 <br>
 
-<a href="https://github.com/Dxryan01/overthewire-writeups/bandit">
+<a href="https://github.com/Dxryan01/overthewire-writeups">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -270,9 +270,9 @@ Complete walkthroughs of the **Bandit** wargame with clear explanations, Linux c
 
 <td width="50%" valign="top">
 
-### MentorLink
+### IFRI_MentorLink
 
-A mentoring platform designed to connect mentors and students through intelligent matching.
+A mentoring platform designed to connect mentors and students from IFRI through intelligent matching.
 
 **Tech Stack**
 
@@ -280,7 +280,7 @@ A mentoring platform designed to connect mentors and students through intelligen
 
 <br>
 
-<a href="https://github.com/Dxryan01/MentorLink">
+<a href="https://github.com/Geoffroy-Dhn/PIL1_2526_44">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
