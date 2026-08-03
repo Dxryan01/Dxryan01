@@ -12,13 +12,9 @@ Cybersecurity Student from Benin 🇧🇯
 Building practical cybersecurity skills, one project at a time.
 </p>
 
-<p align="center">
-  🐧 Linux • 🌐 Networking • 🐍 Python • ⚔️ CTF
-</p>
-
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a cybersecurity student at **IFRI (University of Abomey-Calavi)** with a strong interest in offensive security and Linux.
 
