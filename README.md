@@ -79,8 +79,6 @@ Cybersecurity student building a solid foundation in Linux administration, netwo
 </div>
 
 <br />
-<hr />
-<br />
 
 <!-- Section Platforms (Centrée) -->
 <h2 align="center">Platforms</h2>
