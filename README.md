@@ -203,11 +203,3 @@ Currently, I'm strengthening my skills in Linux administration, networking, scri
 </p>
 
 <br>
-
-<p align="center">
-  <img
-    width="98%"
-    src="https://raw.githubusercontent.com/Dxryan01/Dxryan01/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
-  />
-</p>
